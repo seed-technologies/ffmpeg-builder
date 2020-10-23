@@ -1,0 +1,8 @@
+[submodule "lib/mobile/mobile-ffmpeg"]
+	path = lib/mobile/mobile-ffmpeg
+	url = https://github.com/tanersener/mobile-ffmpeg.git
+	branch = master
+[submodule "lib/standalone/FFmpeg"]
+	path = lib/standalone/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+	branch = master
