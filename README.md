@@ -1,6 +1,9 @@
 # ffmpeg-builder
 build ffmpeg for x-platform.
 
+## official release page
+
+- https://ffmpeg.org/download.html
 
 ## other build tools
 
